@@ -1,5 +1,10 @@
 version: "3.0"
 nlu:
+  - intent: praise
+    examples: |
+      - 你真有才华
+      - 你真帅气
+      - 你好棒啊
   - intent: greet
     examples: |
       - 你好
