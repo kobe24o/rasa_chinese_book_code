@@ -10,6 +10,8 @@ def text_date_to_int(text_date):
         return 0
     if text_date == "明天":
         return 1
+    if text_date == "后天":
+        return 2
     if text_date == "昨天":
         return -1
 

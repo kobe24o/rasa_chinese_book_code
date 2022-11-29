@@ -31,6 +31,7 @@ nlu:
       - [今天](date)的日期
       - [今天](date)几号了
       - [明天](date)的日期
+      - [后天](date)的日期
       - 几号
   - intent: query_weekday
     examples: |
